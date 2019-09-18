@@ -1,0 +1,23 @@
+{
+	"name": "learn-docker",
+	"version": "1.0.0",
+	"description": "learning node and docker",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/FrankChinedu/dockerized-node.git"
+	},
+	"keywords": ["docker", "node"],
+	"author": "obi chinedu frank",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/FrankChinedu/dockerized-node/issues"
+	},
+	"homepage": "https://github.com/FrankChinedu/dockerized-node#readme",
+	"dependencies": {
+		"express": "^4.17.1"
+	}
+}
